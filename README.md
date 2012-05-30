@@ -1,2 +1,2 @@
-Goergia-State-Univeristy
+Georgia-State-Univeristy
 ========================
